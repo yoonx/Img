@@ -14,7 +14,7 @@
             <ImageView
                 android:id="@+id/imageView"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="443dp"
                 app:srcCompat="@drawable/patinho" />
 
             <Button
@@ -22,7 +22,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="mudaImagem"
-                android:text="Bancon?" />
+                android:text="muda" />
 
         </LinearLayout>
 
